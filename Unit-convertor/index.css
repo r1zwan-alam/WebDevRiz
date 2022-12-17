@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+    background: url(https://t4.ftcdn.net/jpg/04/87/58/17/360_F_487581715_cR7BCATtHZw6PsHbVW4ZiQq0FIdAIqkp.jpg)
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.converter{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F4F4F4;
+    border-radius: 5px;
+}
+
+.upper-half{
+    padding: 10px 0;
+    background: linear-gradient(to right,  #71C5EE , #025091);
+border-radius: 5px 5px 0 0 ;
+}
+
+
+input{
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 80px;
+    text-align: center;
+    width: 30%;
+    height: 80px; 
+    margin: 0 auto; 
+    border: 1px solid #B295FF;
+    border-radius: 5px;
+    background: transparent
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:  white;
+    background-color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+h1{
+    color: white;
+font-size: 30px;
+}
+
+h3{
+    font-size: 20px;
+    color: #5A537B;
+}
+
+.results{
+    background-color: white;
+    padding: 12px;
+    margin: 16px 20px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 14px;
+}
